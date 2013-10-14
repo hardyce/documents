@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,about:[0,1],welcom:0,sit:1,modul:0,hardi:1,search:0,indic:0,colinhardysfirstdoc:0,content:0,all:[0,1],colin:1,beauti:1,tabl:0,chair:1,document:0,page:[0,1],contribut:1},objtypes:{},titles:["Welcome to ColinHardysfirstdocs&#8217;s documentation!","All about me"],objnames:{},filenames:["index","all-about-me"]})
